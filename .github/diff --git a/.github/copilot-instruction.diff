@@ -1,0 +1,34 @@
+diff --git a/.github/copilot-instructions.md b/.github/copilot-instructions.md
+new file mode 100644
+--- /dev/null
++++ b/.github/copilot-instructions.md
+@@ -0,0 +1,28 @@
++# Copilot Instructions for mitcharlie/mitcharlie
++
++## Project Overview
++
++This repository focuses on simulating aspects of ACPI (Advanced Configuration and Power Interface) and thermodynamics.
++
++Key files:
++- `README.md`: Basic project description.
++- `Simulatorvender/`: Intended directory for simulator code (currently empty).
++
++## Architecture
++
++No major components defined yet. The project is in early development.
++
++## Developer Workflows
++
++- No specific build, test, or debug commands established.
++- Use standard version control with Git.
++
++## Conventions and Patterns
++
++- No project-specific conventions yet. Follow general best practices for the target language (e.g., Python for simulations).
++
++## Integration Points
++
++- No external dependencies or integrations configured.
++
++This is a starting point; expand as the codebase grows.
+\ No newline at end of file
